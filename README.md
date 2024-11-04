@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🙋🏼‍♂️ About Me
 - I am a second year Software Engineering student at Manchester Metropolitan University
-- I love to run and go to the gym
+- I love to run and going to the gym
 - Find out more about me [here](COMING SOON)
 
 ### 💡 I'm currently working on
