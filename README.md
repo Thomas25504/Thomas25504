@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### 📫 Connect with me 
-- [LinkedIn](www.linkedin.com/in/tom-davidson-247159295)
+- [LinkedIn]("www.linkedin.com/in/tom-davidson-247159295")
 - Email: tldavidson2004@gmail.com
 
 ### 🛠️ Technologies & Tools
