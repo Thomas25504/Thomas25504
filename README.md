@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Find out more about me [here](COMING SOON)
 
 ### 💡 I'm currently working on
-
+- TBD
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
