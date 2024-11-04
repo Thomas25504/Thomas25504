@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🙋🏼‍♂️ About Me
+### 🙋🏼‍♂️ About Me
 - I am a second year Software Engineering student at Manchester Metropolitan University
+- I love to run and go to the gym
+- Find out more about me [here](COMING SOON)
+
+### 💡 I'm currently working on
+
+
+### 📫 Connect with me 
+- [LinkedIn](www.linkedin.com/in/tom-davidson-247159295)
+- Email: tldavidson2004@gmail.com
