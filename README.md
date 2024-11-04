@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-32D7F1?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-46f274?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
