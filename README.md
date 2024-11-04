@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tom Davidson
 
 <!--
 **Thomas25504/Thomas25504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🙋🏼‍♂️ About Me
+- I am a second year Software Engineering student at Manchester Metropolitan University
