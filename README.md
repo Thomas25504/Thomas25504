@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-32D7F1?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-46f274?style=for-the-badge&logo=vue.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-5bacfc?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
