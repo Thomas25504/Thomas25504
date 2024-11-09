@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### 💡 I'm currently working on
 - 🎈 Eventitude - a full-stack event booking app using Express.js and Vue.js
+- 🚀 Pathway - a full-stack habit tracker that with gamification to keep you on track
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
