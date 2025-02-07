@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - Find out more about me [here](COMING SOON)
 
 ### 💡 I'm currently working on
-- 🎈 Eventitude - a full-stack event booking app using Express.js and Vue.js
-- 🚀 Pathway - a full-stack habit tracker that with gamification to keep you on track
+- 💪 Elevate - A fitness and diet tracker aimed to aid with development in good habits and healthy lifestyle
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
