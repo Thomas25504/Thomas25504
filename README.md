@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I love to run and going to the gym
 
 ### 💡 I'm currently working on
-- 💪 Elevate - A fitness and diet tracker aimed to aid with development in good habits and healthy lifestyle
+- 💪 Zenith - An all in one Personal Development App
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
