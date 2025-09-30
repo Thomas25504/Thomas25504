@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 ### 🙋🏼‍♂️ About Me
 - I am a 3rd year Software Engineering student at Manchester Metropolitan University
 - I love to run and going to the gym
+<<<<<<< HEAD
+=======
+
+### 💡 I'm currently working on
+- 💪 Zenith - An all in one Personal Development App
+>>>>>>> 3d6b28d7960c90ea8c8aaff1cf09011e09fcf93a
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
