@@ -11,7 +11,7 @@
 ### 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-773ca6?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-A42095?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-CA3973?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-CA3973?style=for-the-badge&logo=javascript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-F66942?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FEA545?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-773ca6?style=for-the-badge&logo=vue.js&logoColor=white)
