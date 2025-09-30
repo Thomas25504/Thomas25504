@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🙋🏼‍♂️ About Me
-- I am a second year Software Engineering student at Manchester Metropolitan University
+- I am a 3rd year Software Engineering student at Manchester Metropolitan University
 - I love to run and going to the gym
-- Find out more about me [here](COMING SOON)
-
-### 💡 I'm currently working on
-- 🎈 Eventitude - a full-stack event booking app using Express.js and Vue.js
-- 🚀 Pathway - a full-stack habit tracker that with gamification to keep you on track
 
 ### 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/tomdavidson2004)
