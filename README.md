@@ -44,7 +44,7 @@ Outside of coding, I love running and going to the gym — anything that keeps m
 A visual representation of Chaos Theory in Python.
 
 #### 📊 [Full Stack Event Booking Application](https://github.com/Thomas25504/fsd_eventitude) – _Full-Stack App (Vue.js)_  
-Pulls weather data from an external API and processes it for insights.
+Full Stack Web application for creating and registering attendance to events
 
 
 ---
