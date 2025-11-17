@@ -8,7 +8,7 @@ Outside of coding, I love running and going to the gym — anything that keeps m
 
 ### 🚀 What I’m Working On  
 - Building full-stack apps using **Node**, **React**, and **TypeScript**  
-- Exploring **Next.js** and backend architecture  
+- Exploring **React** and backend architecture  
 - Improving my knowledge of **cloud deployment** and **DevOps** practices  
 - Developing personal projects to strengthen my portfolio  
 
