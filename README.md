@@ -40,10 +40,10 @@ Outside of coding, I love running and going to the gym — anything that keeps m
 
 ### 📦 Featured Projects  
 
-#### 🧾 [Chaos Theory | Lorenz Attractor](https://github.com/Thomas25504/Chaos-Theory-Lorenz-Attractor) – _Python_  
+#### 🚀 [Chaos Theory | Lorenz Attractor](https://github.com/Thomas25504/Chaos-Theory-Lorenz-Attractor) – _Python_  
 A visual representation of Chaos Theory in Python.
 
-#### 📊 [Full Stack Event Booking Application](https://github.com/Thomas25504/fsd_eventitude) – _Full-Stack App (Vue.js)_  
+#### 📕 [Full Stack Event Booking Application](https://github.com/Thomas25504/fsd_eventitude) – _Full-Stack App (Vue.js)_  
 Full Stack Web application for creating and registering attendance to events
 
 
@@ -57,5 +57,5 @@ Full Stack Web application for creating and registering attendance to events
 
 ### ⚡ Fun Facts  
 - I’ve been working out in the gym consistently for years — discipline in sport translates directly into my work ethic  
-- Coffee-powered coding sessions are my specialty  
+- Monster-powered coding sessions are my specialty  
 - I love learning new tools and frameworks just to see what’s possible  
