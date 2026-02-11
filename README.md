@@ -7,7 +7,7 @@ Right now, I'm focused on **mobile development with C# and .NET MAUI** and level
 
 ## 🚀 What I’m Working On
 - 📱 **Mobile Computing** using **C#** & **.NET MAUI**
-- ☁️ Learning **AWS** (EC2 fundamentals)
+- ☁️ Learning **AWS** (EC2 fundamentals) and **Google Cloud** (Compute Engine fundamentals)
 - 🧪 Strengthening architecture, testing, and deployment workflows
 
 ---
