@@ -46,6 +46,10 @@ A visual simulation of the Lorenz Attractor.
 A complete event creation & registration platform.  
 🔗 https://github.com/Thomas25504/fsd_eventitude
 
+### 🔹 OpenTk Voxel Engine - MinecraftClone (C#)  
+A minecraft inspired voxel enginer coded from scratch.  
+🔗 https://github.com/Thomas25504/MinecraftClone-CSharp
+
 ---
 
 ## 📫 Connect With Me
